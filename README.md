@@ -30,6 +30,9 @@
     <a href="https://api.whatsapp.com/send?phone=5521971602369&text=E%20aí!%20Vim%20do%20teu%20Github.%20Bora%20bater%20um%20papo?">
       <img width="35px" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" />
     </a>
+    <a href="discord.com/users/803410251427872779">
+      <img width="35px" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" />
+    </a>
     <a href="https://lucyanovidio.vercel.app">
       <img width="35px" src="https://img.icons8.com/fluency/48/000000/laptop.png" />
     </a>
