@@ -54,8 +54,8 @@
   ##
   <br>
   <div>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucyanovidio&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucyanovidio&layout=compact&langs_count=7&theme=blue-green"/>
+    <img height="180px" width="350px" src="https://github-readme-stats.vercel.app/api?username=lucyanovidio&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="180px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucyanovidio&layout=compact&langs_count=7&theme=blue-green"/>
   </div>
   </br>
   
