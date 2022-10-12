@@ -33,6 +33,8 @@
     </a>
   </div>
   <br>
+  <p>Pode me chamar para um papo sempre que quiser, <br> para falar de qualquer coisa! 🤙🏾</p>
+  <br>
   
   <h2>Tecnologias e ferramentas</h2>
   <div>
@@ -55,6 +57,6 @@
   </div>
   </br>
   
-  <p>Pode me chamar para um papo sempre que quiser, pra falar de qualquer coisa! 🐱‍👤🍃</p>
+  🍃
 
 </div>
