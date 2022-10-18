@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/D4D16AQEwf70KOqqG7g/profile-displaybackgroundimage-shrink_350_1400/0/1665434626518?e=1671667200&v=beta&t=UbUEQI7ymJS_fWu79sRehzrgIn4PUTDqTz_p5JVR1Pw" /> <br>
   <h1>E aí! 👋🏾 Me chamo Lucyan,</h1>
   <p>Desenvolvedor web, graduando em Sistemas de Informação na UFRRJ e amante de café.</p>
 </div>
