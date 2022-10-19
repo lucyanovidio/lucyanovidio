@@ -1,5 +1,5 @@
 <div>
-  <h1>E aí! 👋🏾 Me chamo Lucyan,</h1>
+  <h1>E aí! Me chamo Lucyan 👋🏾</h1>
   <p>Desenvolvedor web, graduando em Sistemas de Informação na UFRRJ e amante de café.</p>
 </div>
 </br>
@@ -36,7 +36,9 @@
     </a>
   </div>
   <br>
-  <p>Pode me chamar para um papo sempre que quiser, <br> para falar de qualquer coisa! 🤙🏾</p>
+  
+  > Pode me chamar pra um papo sempre que quiser, <br> pra falar de qualquer coisa! 🤙🏾
+  
   <br>
   
   <h2>Tecnologias e ferramentas</h2>
@@ -53,13 +55,9 @@
   <br>
   
   ##
-  <br>
   <div>
-    <img height="180px" width="350px" src="https://github-readme-stats.vercel.app/api?username=lucyanovidio&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-    <img height="180px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucyanovidio&layout=compact&langs_count=7&theme=blue-green"/>
+    <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api?username=lucyanovidio&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucyanovidio&layout=compact&langs_count=7&theme=blue-green"/>
   </div>
-  </br>
   
-  🍃
-
 </div>
