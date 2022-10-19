@@ -1,10 +1,8 @@
-<div align="center">
+<div>
   <h1>E aí! 👋🏾 Me chamo Lucyan,</h1>
   <p>Desenvolvedor web, graduando em Sistemas de Informação na UFRRJ e amante de café.</p>
 </div>
 </br>
-
-<img width="180px" align="right" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" />
 
 - 🔍 Atualmente focado em Front-end;
 - 📚 Fortalecendo fundamentos do desenvolvimento no momento;
@@ -14,7 +12,7 @@
 - 💻 <a href="https://lucyanovidio.vercel.app">Meu portifólio dev</a>.
 
 <br>
-<div align="center">
+<div>
   
   <h2>Minhas redes</h2>
   <div>
