@@ -8,7 +8,6 @@
 - 📚 Fortalecendo fundamentos do desenvolvimento no momento;
 - 🙋🏾‍♂️ Pronomes: ele/dele;
 - 💡 Viso um dia mudar o meio social com soluções tecnológicas;
-- ☕ Já disse que amo um cafézinho?;
 - 💻 <a href="https://lucyanovidio.vercel.app">Meu portifólio dev</a>.
 
 <br>
