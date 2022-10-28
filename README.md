@@ -5,9 +5,9 @@
 </br>
 
 - 🔍 Atualmente focado em Front-end;
-- 📚 Fortalecendo fundamentos do desenvolvimento no momento;
-- 🙋🏾‍♂️ Pronomes: ele/dele;
-- 💡 Viso um dia mudar o meio social com soluções tecnológicas;
+- 📚 Conhecimentos em HTML, CSS e JS;
+- 🎯 Proximos passos: React e Tailwind CSS;
+- 💡 Viso um dia resolver problemas sociais com soluções tecnológicas;
 - 💻 <a href="https://lucyanovidio.vercel.app">Meu portifólio dev</a>.
 
 <br>
@@ -48,8 +48,6 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
   </div>
   <br>
   
