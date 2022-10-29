@@ -4,11 +4,11 @@
 </div>
 </br>
 
-- 🔍 Atualmente focado em Front-end;
-- 📚 Conhecimentos em HTML, CSS e JS;
-- 🎯 Proximos passos: React e Tailwind CSS;
-- 💡 Viso um dia resolver problemas sociais com soluções tecnológicas;
-- 💻 <a href="https://lucyanovidio.vercel.app">Meu portifólio dev</a>.
+- 🔍 Atualmente focado em Front-end
+- 📚 Conhecimentos em HTML, CSS e JS
+- 🎯 Proximos passos: React e Tailwind CSS
+- 💡 Viso um dia resolver problemas sociais com soluções tecnológicas
+- 💻 [Meu portifólio dev](https://lucyanovidio.vercel.app)
 
 <br>
 <div>
