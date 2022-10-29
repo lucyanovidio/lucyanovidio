@@ -3,6 +3,7 @@
 
 - 🔍 Desenvolvedor Web Front-end
 - 🎓 Graduando em Sistemas de Informação na UFRRJ
+- 🎓 Aluno na [Rocketseat](https://rocketseat.com.br)
 - 📚 Conhecimentos em HTML, CSS e JS
 - 🎯 Proximos passos: React e Tailwind CSS
 - ☕ Amante de café
