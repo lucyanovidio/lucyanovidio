@@ -6,11 +6,8 @@
 + 🎓 Aluno na [Rocketseat](https://rocketseat.com.br)
 + 📚 Conhecimentos em HTML, CSS e JS
 + 💻 [Meu portifólio dev](https://lucyanovidio.vercel.app)
-
-<br>
  
 <div>
-  
  <h2>Minhas redes</h2>
  <div>
    <a href="https://linkedin.com/in/lucyanovidio">
@@ -32,7 +29,6 @@
      <img width="35px" src="https://img.icons8.com/fluency/48/000000/laptop.png" />
    </a>
  </div>
- <br>
 
  <h2>Tecnologias e ferramentas</h2>
  <div>
@@ -43,12 +39,10 @@
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  </div>
- <br>
 
- <h2>Github stats</h2>
+ <h2>Github Stats</h2>
  <div>
    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=lucyanovidio&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucyanovidio&layout=compact&langs_count=7&theme=blue-green"/>
  </div>
-
 </div>
