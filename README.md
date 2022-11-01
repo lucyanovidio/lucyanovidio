@@ -3,7 +3,7 @@
 
 + 🔍 Desenvolvedor Web Front-end 
 + 🎓 Graduando em Sistemas de Informação na UFRRJ
-+ 🎓 Aluno na [Rocketseat](https://rocketseat.com.br)
++ 📚 Aluno na [Rocketseat](https://rocketseat.com.br)
 + ☕ Amante de café
 + 💻 [Meu portifólio dev](https://lucyanovidio.vercel.app)
  
