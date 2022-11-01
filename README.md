@@ -4,7 +4,7 @@
 + 🔍 Desenvolvedor Web Front-end 
 + 🎓 Graduando em Sistemas de Informação na UFRRJ
 + 🎓 Aluno na [Rocketseat](https://rocketseat.com.br)
-+ 📚 Conhecimentos em HTML, CSS e JavaScript
++ ☕ Amante de café
 + 💻 [Meu portifólio dev](https://lucyanovidio.vercel.app)
  
 <div>
