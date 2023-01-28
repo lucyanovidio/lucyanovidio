@@ -1,15 +1,11 @@
-<img src="./images/gthub-banner.png" />
+<img src="./images/github-banner.png" />
 
-
+* 💻 Desenvolvedor web Front-end
+* 🎓 Graduando em Sistemas de Informação
+* ☕ Amante de café
+* 📌 [Meu portifólio](https://lucyanovidio.vercel.app)
 
 <div align="center">
-
-💻 Desenvolvedor web Front-end | 
-🎓 Graduando em Sistemas de Informação <br>
-☕ Amante de café | 
-📌 [Meu portifólio](https://lucyanovidio.vercel.app)
-
-<hr>
 
  ### Tecnologias e ferramentas
  
@@ -55,4 +51,4 @@
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
  </a>
  
- </div>
+</div>
