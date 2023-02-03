@@ -1,29 +1,15 @@
 <img src="./images/github-banner.png" />
 
-* 💻 Desenvolvedor web Front-end
-* 🎓 Graduando em Sistemas de Informação
-* ☕ Amante de café
-* 📌 [Meu portifólio](https://lucyanovidio.vercel.app)
+Sou graduando no curso de Sistemas de Informação pela UFRRJ e desenvolvedor web com foco atual em Front-end, entusiasta das tecnologias JavaScript. 
+
+No momento, meu foco de estudos é em React.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack.
+Sou aluno na [Rocketseat](https:/rocketseat.com) e desenvolvo projetos freelance - aberto a oportunidades 🙋🏾‍♂️
+
+Também amo café, ouvir todo tipo de música e estou disponível para conexões e para trocas de ideias!
+
+📌 [Meu portifólio](https://lucyanovidio.vercel.app)
 
 <div align="center">
-
- ### Tecnologias e ferramentas
- 
- <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo" />
- </div>
- 
- ### Estudando no momento
- 
- <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo" />
- </div>
 
  <div>
    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=lucyanovidio&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=66cc00&icon_color=66cc00&text_color=c9d1d9&bg_color=0d1117"/>
