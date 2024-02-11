@@ -1,6 +1,6 @@
 <img src="./images/github-banner.png" />
 
-Sou graduando no curso de Sistemas de Informação pela UFRRJ e desenvolvedor web Front-end, entusiasta das tecnologias JavaScript. 
+Sou graduando no curso de Sistemas de Informação pela UFRRJ, estagiário em computação na Petrobras e desenvolvedor web Front-end, entusiasta das tecnologias JavaScript. 
 
 No momento, meu foco de estudos é em React.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack.
 Sou aluno na [Rocketseat](https:/rocketseat.com) e desenvolvo projetos freelancer - aberto a oportunidades 🙋🏾‍♂️
